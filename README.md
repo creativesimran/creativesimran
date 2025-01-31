@@ -11,6 +11,8 @@
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=python&label=&color=3776ab&labelColor=000000)
 <br/>
 ![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=Github&label=&color=F05032&labelColor=000000)
+<br/>
+![MYSQL](https://img.shields.io/static/v1?style=for-the-badge&logo=mysql&message=MYSQL&label=&color=000000&labelColor=fff)
 <br/><br/>
 
 ## Learning From
