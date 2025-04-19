@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently looking for a data analyst/business analyst Job
+- 🔭 I’m currently looking for a data analyst Job
 - 📫 How to reach me **simranjaiswal4976@gmail.com**
 - 🏫 I’m currently learning Python.
 
